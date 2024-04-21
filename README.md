@@ -1,6 +1,6 @@
 <style>
   p {
-      font-family: sans-serif;
+      font-family: Times New Roman;
   }
 </style>
 
