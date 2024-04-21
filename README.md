@@ -2,5 +2,5 @@
 - 👀 I’m interested in Back-End and Front-End
 - 🌱 I’m currently learning java,HTML,CSS
 - 📫 fb_huzeyfe@hotmail.com <br> <br>
-<p> <strong>Connect with me:<strong> </p>
+<p> <b Connect with me: </b> </p>
 
