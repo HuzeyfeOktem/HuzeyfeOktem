@@ -4,6 +4,5 @@
 - 📫 fb_huzeyfe@hotmail.com <br>
 <p> <strong>Connect with me:</strong> </p>
 <a href="https://www.linkedin.com/in/huzeyfe-oktem-4b3234285/">
-    <img src="images/Black Clover.jpe" alt="logo">
+    <img src="file:///C:/Users/HUZEYFE/OneDrive/Masa%C3%BCst%C3%BC/resimler/linklead.jpg" alt="logo">
 </a>
-![linklead](https://github.com/HuzeyfeOktem/HuzeyfeOktem/assets/147250443/97c32ead-2a70-42ac-a9d5-23532c33e96b)
