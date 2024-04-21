@@ -4,5 +4,5 @@
 - 📫 fb_huzeyfe@hotmail.com <br>
 <p> <strong>Connect with me:</strong> </p>
 <a href="https://www.linkedin.com/in/huzeyfe-oktem-4b3234285/">
-    <img src="https://cdn-icons-png.flaticon.com/128/1384/1384046.png" alt="logo">
+    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="logo">
 </a>
