@@ -4,5 +4,5 @@
 - 📫 fb_huzeyfe@hotmail.com <br>
 <p> <strong>Connect with me:</strong> </p>
 <a href="https://www.linkedin.com/in/huzeyfe-oktem-4b3234285/">
-    <img src="images/Anime Collage.jpeg" alt="logo">
+    <img src="https://cdn-icons-png.flaticon.com/128/1384/1384046.png" alt="logo">
 </a>
