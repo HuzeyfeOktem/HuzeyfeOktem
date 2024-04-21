@@ -1,3 +1,9 @@
+<style>
+  p {
+      font-family: sans-serif;
+  }
+</style>
+
 - 👋 Hi, My name is Huzeyfe
 - 👀 I’m interested in Back-End and Front-End
 - 🌱 I’m currently learning java,HTML,CSS
