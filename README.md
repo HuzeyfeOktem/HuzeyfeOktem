@@ -4,5 +4,5 @@
 - 📫 fb_huzeyfe@hotmail.com <br>
 <p> <strong>Connect with me:</strong> </p>
 <a href="https://www.linkedin.com/in/huzeyfe-oktem-4b3234285/">
-    <img src="resimler/linklead" alt="logo">
+    <img src="images/Black Clover.jpe" alt="logo">
 </a>
