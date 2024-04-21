@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning java,HTML,CSS
 - 📫 How to reach me:
 https://www.linkedin.com/in/huzeyfe-oktem-4b3234285/<br>
-fb_huzeyfe@hotmail.com
+- fb_huzeyfe@hotmail.com
